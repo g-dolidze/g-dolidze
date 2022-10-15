@@ -1,0 +1,316 @@
+#main{
+ display: block;
+ justify-content: center;
+   
+    text-align: center
+}
+.w{
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: xxx-large;
+}
+.wiki{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    width: 100px;
+    height: 100px;
+    font-size: 30px;
+    font-weight: 20;
+}
+.free{
+    font-family: Georgia, 'Times New Roman', Times, serif
+    width: 100px;
+    height: 100px;
+    font-size: 18px;
+
+}
+.logo1
+{
+    margin-top: 100px;
+   width: 250px;
+   height: 250px;
+}
+.English{ 
+   position: absolute;
+   right: 250px;
+   left: 0px;
+   top: 190px;
+   bottom: 0px;
+   margin: auto;
+   font-size: larger;
+   font-weight: bold;
+   color: blue;
+} 
+.engb{
+    width: 150px;
+    height: 40px;
+    border: none;
+    background-color: rgb(234, 239, 240);
+    font-size:large;
+    font-weight: bold;
+}
+.numb{
+    font-size: 14px;
+    color: gray;
+}
+.spain{
+position: absolute;
+right: 350px;
+left: 0px;
+top: 250px;
+bottom: 0px;
+margin: auto
+}
+.spainart{
+    font-size: 14px;
+    color: gray;
+}
+.spainlink{
+    font-size: larger;
+    font-weight: bold;
+}
+.spainbut{
+ 
+ width: 150px;
+ height: 40px;
+ border: none;
+ background-color: rgb(234, 239, 240);
+}
+.franc{
+    position: absolute;
+    right: 400px;
+    left: 0px;
+    top: 320px;
+    bottom: 0px;
+    margin: auto;
+}
+.franclink{
+    font-size: larger;
+    font-weight: bold;
+}
+.francart{
+    font-size: 14px;
+    color: gray;
+}
+.francbut{
+    width: 150px;
+ height: 40px;
+ border: none;
+ background-color: rgb(234, 239, 240);
+}
+.ital{
+    position: absolute;
+    right: 350px;
+    left: 0px;
+    top: 390px;
+    bottom: 0px;
+    margin: auto;
+}
+.itallink{
+    font-size: larger;
+    font-weight: bold;
+}
+.italvoc{
+    font-size: 14px;
+    color: gray;
+}
+.italbut{
+    width: 150px;
+    height: 40px;
+    border: none;
+    background-color: rgb(234, 239, 240);
+}
+.port{    position: absolute;
+    right: 250px;
+    left: 0px;
+    top: 450px;
+    bottom: 0px;
+    margin: auto;
+}
+.portlink{
+    font-size: larger;
+    font-weight: bold;
+}
+.portart{ font-size: 14px;
+    color: gray;
+}
+.portbut{
+    width: 150px;
+    height: 40px;
+    border: none;
+    background-color: rgb(234, 239, 240);
+}
+.jap{
+    position: absolute;
+   right: 0px;
+   left: 250px;
+   top: 190px;
+   bottom: 0px;
+}
+.japlink{
+    font-size: larger;
+    font-weight: bold; 
+}
+.japart{
+    font-size: 14px;
+    color: gray;
+}
+.japbut{
+    width: 150px;
+    height: 40px;
+    border: none;
+    background-color: rgb(234, 239, 240);
+}
+.rus{
+    position: absolute;
+    right: 0px;
+    left: 350px;
+    top: 250px;
+    bottom: 0px;
+    margin: auto;
+}
+.ruslink{
+    font-size: larger;
+    font-weight: bold;  
+}
+.rusart{
+    font-size: 14px;
+    color: gray;
+}
+.rusbut{
+    width: 150px;
+    height: 40px;
+    border: none;
+    background-color: rgb(234, 239, 240);
+}
+.deu{
+    position: absolute;
+    right: 0px;
+    left: 400px;
+    top: 320px;
+    bottom: 0px;
+    margin: auto;
+}
+.deulink{
+    font-size: larger;
+    font-weight: bold;  
+}
+.deuart{
+    font-size: 14px;
+    color: gray; 
+}
+.deubut{  
+      width: 150px;
+    height: 40px;
+    border: none;
+    background-color: rgb(234, 239, 240);
+}
+.chi{
+    position: absolute;
+    right: 0px;
+    left: 350px;
+    top: 390px;
+    bottom: 0px;
+    margin: auto;
+}
+.chilink{
+    font-size: larger;
+    font-weight: 900;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.chiart{
+    font-size: 14px;
+    color: gray; 
+}
+.chibut{
+    width: 150px;
+    height: 40px;
+    border: none;
+    background-color: rgb(234, 239, 240);
+}
+
+.arab{
+    position: absolute;
+    right: 0px;
+    left: 250px;
+    top: 450px;
+    bottom: 0px;
+    margin: auto;
+}
+.arablink{
+    font-size: larger;
+    font-weight: bolder; 
+}
+.arabart{
+    font-size: 14px;
+    color: gray; 
+}
+.arabbut{
+    width: 150px;
+    height: 40px;
+    border: none;
+    background-color: rgb(234, 239, 240);
+}
+
+
+.search{
+    position: absolute;
+    right: 0px;
+    left: 0px;
+    top: 530px;
+    bottom: 0px;
+    margin: auto;
+}
+.search-box{
+   width: 450px;
+   height: 42px;
+  
+
+}
+.searchinput{
+    width: 450px;
+    height: 40px;
+    border-style: solid;
+   border-color: blue;
+
+}
+.linksorce{
+    font-family:sans-serif;
+    font-size: 15px;
+}
+.supportlink{
+    font-family: sans-serif;
+    font-size: 14px;
+    color: blue;
+}
+.s1{
+  
+margin-top: 30px;
+margin-right: 480px;
+color: white;
+border:none
+}
+.s2{
+margin-top: 20px;
+margin-right: 480px;
+color: white;
+border:none
+}
+.s3{
+    margin-top: 20px;
+margin-right: 480px;
+color: white;
+border:none
+}
+.s4{
+
+    background-color: rgb(233, 237, 240);
+    margin-top: 20px;
+margin-right: 480px;
+color: white;
+border:none
+}
+
+
+.down{
+    height: 200px;
+    background-color: rgb(245, 246, 250);
+}
