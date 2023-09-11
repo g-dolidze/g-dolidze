@@ -8,7 +8,7 @@
 
 - 💬 Ask me about **React, Nextjs**
 
-- 📄 <a href="https://drive.google.com/drive/my-drive"> resume </a>
+- 📄 <a href="https://drive.google.com/file/d/1-UFABF_EQ91mT7Zfz7FTGh5sAjlNmE1A/view?usp=sharing"> resume </a>
   <br/>
 
 
