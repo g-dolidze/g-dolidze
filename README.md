@@ -4,12 +4,9 @@
 
 - 🔭 I’m currently working on Magticom **IT Support Specialist**
 
-- 🌱 I’m currently learning **Nextjs**
+- 🌱 I’m currently learning **Pyton**
 
-- 💬 Ask me about **React, Nextjs**
-
-- 📄 <a href="https://drive.google.com/file/d/1vGxR7qrBgu4C3XusxY4q0jJEu-GHtF2J/view?usp=sharing"> resume </a>
-  <br/>
+- 💬 Ask me about **React, Nextjs**, React Native
 
 
 
