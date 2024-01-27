@@ -8,6 +8,8 @@
 
 - 💬 Ask me about **React, Nextjs**, React Native
 
+- My <a href="https://drive.google.com/file/d/1vGxR7qrBgu4C3XusxY4q0jJEu-GHtF2J/view?usp=sharing" > Resume</a>
+
 
 
 
