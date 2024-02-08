@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Giorgi Doldize</h1>
+<h1 align="center">Hi 👋, I'm Giorgi Dolidze</h1>
 
 <h3 align="center">I'm a React Developer with a background in IT Support, Welcome to my GitHub profile! Here, you'll find a collection of projects and code that reflect my skills and interests in web development.</h3>
 
